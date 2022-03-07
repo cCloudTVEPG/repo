@@ -1,5 +1,16 @@
-<dir>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.MonsterRepo" name="Monster Repo" version="1.1.6" provider-name="DeadPool">
+	<extension point="xbmc.addon.repository" name="Monster Repo">
+	<dir>
     <info compressed="false">https://raw.githubusercontent.com/cCloudTVEPG/repo/master/Zips/addons.xml</info>
     <checksum>https://raw.githubusercontent.com/cCloudTVEPG/repo/master/Zips/addons.xml.md5</checksum>
     <datadir zip="true">https://raw.githubusercontent.com/cCloudTVEPG/repo/master/Zips/</datadir>
 </dir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary></summary>
+		<description>This is Just a simple repo for all Lucid Builds and forks
+	</description>
+		<platform>all</platform>
+	</extension>
+</addon>
