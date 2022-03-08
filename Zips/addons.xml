@@ -1,5 +1,5 @@
 <addons>
-<addon id="plugin.program.openwizard" name="[COLOR limegreen]Open[/COLOR]Wizard" version="2.0.7" provider-name="Deadpool">
+<addon id="plugin.program.openwizard" name="[B][COLOR yellowgreen]Lucid[/COLOR] [COLOR limegreen]Wizard[/COLOR][/B]" version="2.0.7a" provider-name="Deadpool">
     <requires>
         <import addon="xbmc.python" version="3.0.0" />
         <import addon="script.module.requests" />
