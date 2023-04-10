@@ -22,7 +22,17 @@
 	</extension>
 </addon>
 
-
+<addon id="plugin.program.LucidWizard" name="[B][COLOR yellowgreen]Lucid[/COLOR] [COLOR limegreen]Wizard[/COLOR][/B]" version="2.0.7" provider-name="Deadpool">
+    <requires>
+        <import addon="xbmc.python" version="3.0.0" />
+        <import addon="script.module.requests" />
+        <import addon="script.module.six" />
+        <import addon="script.kodi.android.update" optional="true" version="1.1.7" />
+        <import addon="script.speedtester" optional="true" version="1.1.2" />
+    </requires>
+    
+   
+</addon>
 
 
 
